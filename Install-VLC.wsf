@@ -51,7 +51,7 @@ Function ZTIProcess()
 	
 	'// Variables: 
 	'// Change if needed
-	sVersion = "3.0.7.1"
+	sVersion = "3.0.12"
 	
 	If sArch = "x64" then
 		sFile = "vlc-" & sVersion & "-win64.exe"
@@ -118,21 +118,3 @@ End Function
 
 </script>
 </job>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
